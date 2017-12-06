@@ -1,4 +1,7 @@
 package com.sabel.IhrName;
+/**
+ * @author König Michael
+ */
 
 import javax.xml.bind.DatatypeConverter;
 import java.security.MessageDigest;
