@@ -24,6 +24,7 @@ public class GBSBlockchain {
                 block = b;
             }
         }
+
         sortedList.add(block);
         sucheNachfolger(block);
 

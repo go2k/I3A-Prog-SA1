@@ -57,4 +57,5 @@ public class Block {
     public void setSelfHash(String selfHash) {
         this.selfHash = selfHash;
     }
+
 }
